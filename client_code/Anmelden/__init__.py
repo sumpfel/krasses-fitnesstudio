@@ -11,7 +11,7 @@ class Anmelden(AnmeldenTemplate):
     # Set Form properties and Data Bindings.
     self.init_components(**properties)
 
-    self.repeating_panel_1.items = anvil.server.call("get_mitglieder")#+{item["KID"]}
+    self.repeating_panel_1.items = anvil.server.call("get_mitglieder")#+{"KID":item["KID"]}]
     
 
     # Any code you write here will run before the form opens.
