@@ -3,7 +3,11 @@ unique_ids:
     standard-page.html: E2IXVEYGPPRTOGH3ZUNPXZ426CPLMD27
     theme.css: FSVL3L34YPFDZXZWPGVHTEGFAI7JHQYJ
   forms:
-    Form1: V7BGNIESVHT52PS243SI7CEDSLBQY7NL
+    Anmelden: '1775639442523749827449067.9924'
+    Anmelden.RowTemplate2: '177563945159123440813959.52691'
+    Kursuebersicht: V7BGNIESVHT52PS243SI7CEDSLBQY7NL
+    Kursuebersicht.RowTemplate1: '177563768217777415095391.77948'
   modules: {}
   scripts: {}
-  server_modules: {}
+  server_modules:
+    ServerModule1: '1775638057988806571381714.5564'
